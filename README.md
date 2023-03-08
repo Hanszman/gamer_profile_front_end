@@ -1,6 +1,7 @@
 # Gamer Profile Front End
 
 Front-End do projeto da Gamer Profile utilizando Node.js, React, MySQL e Vercel.
+Execução: npm run start
 
 ---------- // ----------
 
