@@ -1,3 +1,9 @@
+# Gamer Profile Front End
+
+Front-End do projeto da Gamer Profile utilizando Node.js, React, MySQL e Vercel.
+
+---------- // ----------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
