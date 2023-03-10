@@ -1,4 +1,4 @@
-// Declarations
+// Imports
 import axios from 'axios';
 import env from "react-dotenv";
 

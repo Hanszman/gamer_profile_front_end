@@ -1,4 +1,4 @@
-// Declarations
+// Imports
 import { useState, useEffect } from 'react';
 import Api from './services/Api';
 
