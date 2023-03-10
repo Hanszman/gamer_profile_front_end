@@ -1,6 +1,8 @@
+// Declarations
 import { useState, useEffect } from 'react';
 import Api from './services/Api';
 
+// Component
 function App() {
   useEffect(() => {
     Api.get('teste').then(res => {
@@ -16,4 +18,5 @@ function App() {
   );
 }
 
+// Exportation
 export default App;
