@@ -1,5 +1,5 @@
 // Imports
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import Api from './services/Api';
 
 // Component
